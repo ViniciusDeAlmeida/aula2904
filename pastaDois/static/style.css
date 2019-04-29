@@ -1,0 +1,30 @@
+
+h1{
+    color: blue;
+    font-size: 30pt;
+    font-weight: bold;
+}
+
+a{
+    display: list-item ;
+    flex-direction: row;
+    justify-content: space-between;
+
+    color: blue;
+    font-size: 15pt;
+    font-weight: bold;
+    background-color: yellow; 
+}
+
+    
+
+
+.logonasa{
+    width: 150pt;
+    height: 85pt;;
+}
+
+.imagemcentral{
+    width: 150pt;
+    height: 150pt;
+}
